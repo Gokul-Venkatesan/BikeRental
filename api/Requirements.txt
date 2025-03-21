@@ -1,0 +1,6 @@
+Python 3.11.9
+Flask for Web Interface
+scikit-learn - Machine Learning Algorithm
+numpy
+pickle - train/save the model
+pandas - for reading files
